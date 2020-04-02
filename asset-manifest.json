@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-update/static/css/main.f198d413.chunk.css",
+    "main.js": "/react-portfolio-update/static/js/main.653bf3a1.chunk.js",
+    "main.js.map": "/react-portfolio-update/static/js/main.653bf3a1.chunk.js.map",
+    "runtime-main.js": "/react-portfolio-update/static/js/runtime-main.cf51663e.js",
+    "runtime-main.js.map": "/react-portfolio-update/static/js/runtime-main.cf51663e.js.map",
+    "static/js/2.66c4d2f9.chunk.js": "/react-portfolio-update/static/js/2.66c4d2f9.chunk.js",
+    "static/js/2.66c4d2f9.chunk.js.map": "/react-portfolio-update/static/js/2.66c4d2f9.chunk.js.map",
+    "index.html": "/react-portfolio-update/index.html",
+    "precache-manifest.b5c514ef7424c8309f933f3815a861ee.js": "/react-portfolio-update/precache-manifest.b5c514ef7424c8309f933f3815a861ee.js",
+    "service-worker.js": "/react-portfolio-update/service-worker.js",
+    "static/css/main.f198d413.chunk.css.map": "/react-portfolio-update/static/css/main.f198d413.chunk.css.map",
+    "static/js/2.66c4d2f9.chunk.js.LICENSE.txt": "/react-portfolio-update/static/js/2.66c4d2f9.chunk.js.LICENSE.txt",
+    "static/media/AbutrackLogo.png": "/react-portfolio-update/static/media/AbutrackLogo.e8ba8328.png",
+    "static/media/CartnerGolf.png": "/react-portfolio-update/static/media/CartnerGolf.e1c174aa.png",
+    "static/media/ci-logo.png": "/react-portfolio-update/static/media/ci-logo.3c3968d8.png",
+    "static/media/profilePicture.jpg": "/react-portfolio-update/static/media/profilePicture.0be9b6c2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf51663e.js",
+    "static/js/2.66c4d2f9.chunk.js",
+    "static/css/main.f198d413.chunk.css",
+    "static/js/main.653bf3a1.chunk.js"
+  ]
+}
